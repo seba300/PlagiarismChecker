@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "STqe/tStOxiO6GzuDJqONDuhZFvLoSEW0q44ZKixDSaDI3slDzj+byLQ5C8abcZBAWhYzjT9KIidfvyxaJZwmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sebastian\\source\\repos\\PlagiarismChecker\\PlagiarismChecker\\PlagiarismChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebastian\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

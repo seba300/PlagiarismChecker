@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlagiarismChecker", "PlagiarismChecker\PlagiarismChecker.csproj", "{6076B374-AF12-48A9-8B2E-4554AA940A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6076B374-AF12-48A9-8B2E-4554AA940A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6076B374-AF12-48A9-8B2E-4554AA940A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6076B374-AF12-48A9-8B2E-4554AA940A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6076B374-AF12-48A9-8B2E-4554AA940A94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E3AB83-88DE-4CA0-8270-3637654BF65C}
+	EndGlobalSection
+EndGlobal

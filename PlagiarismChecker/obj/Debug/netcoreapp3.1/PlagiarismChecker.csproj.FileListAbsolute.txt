@@ -1,0 +1,15 @@
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\bin\Debug\netcoreapp3.1\PlagiarismChecker.exe
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\obj\Debug\netcoreapp3.1\PlagiarismChecker.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\obj\Debug\netcoreapp3.1\PlagiarismChecker.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\obj\Debug\netcoreapp3.1\PlagiarismChecker.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\bin\Debug\netcoreapp3.1\PlagiarismChecker.deps.json
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\bin\Debug\netcoreapp3.1\PlagiarismChecker.runtimeconfig.json
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\bin\Debug\netcoreapp3.1\PlagiarismChecker.runtimeconfig.dev.json
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\bin\Debug\netcoreapp3.1\PlagiarismChecker.dll
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\bin\Debug\netcoreapp3.1\PlagiarismChecker.pdb
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\obj\Debug\netcoreapp3.1\PlagiarismChecker.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\obj\Debug\netcoreapp3.1\PlagiarismChecker.csproj.CopyComplete
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\obj\Debug\netcoreapp3.1\PlagiarismChecker.dll
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\obj\Debug\netcoreapp3.1\PlagiarismChecker.pdb
+C:\Users\Sebastian\source\repos\PlagiarismChecker\PlagiarismChecker\obj\Debug\netcoreapp3.1\PlagiarismChecker.genruntimeconfig.cache
