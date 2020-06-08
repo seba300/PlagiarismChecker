@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "STqe/tStOxiO6GzuDJqONDuhZFvLoSEW0q44ZKixDSaDI3slDzj+byLQ5C8abcZBAWhYzjT9KIidfvyxaJZwmQ==",
+  "dgSpecHash": "yvsAoKzFImO6FlX/lIeZD/so7kc8KCGcxruYEItzvjG0LpTV5eyihZaPqAYxL8fiE2pxzyqf+QWvJwWHBTAQCw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sebastian\\source\\repos\\PlagiarismChecker\\PlagiarismChecker\\PlagiarismChecker.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Sebastian\\.nuget\\packages\\libgit2sharp\\0.26.2\\libgit2sharp.0.26.2.nupkg.sha512",
+    "C:\\Users\\Sebastian\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.306\\libgit2sharp.nativebinaries.2.0.306.nupkg.sha512",
     "C:\\Users\\Sebastian\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
   ],
   "logs": []
